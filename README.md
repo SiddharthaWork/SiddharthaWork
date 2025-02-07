@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwwaXdiYm1tOTVyYXpvc2d1MzgwaDN0NGlreHdkdTlkMnlwdHJwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRhaDZndHpmdWs3NHVqZjJ5bWVkcGJkNnU4bTZ0NDhwOGM0cjh6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Siddhartha Shrestha</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>

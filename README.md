@@ -1,4 +1,6 @@
-<img src="https://i.gifer.com/EgUx.gif" align="center"></img>
+<p align="center">
+  <img src="https://i.gifer.com/EgUx.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Siddhartha Shrestha</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 

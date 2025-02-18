@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthawork&show_icons=true&locale=en&layout=compact" alt="siddharthawork" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthawork&show_icons=true&theme=dark&locale=en" alt="siddharthawork" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthawork&theme=highcontrast" alt="siddharthawork" /></p>

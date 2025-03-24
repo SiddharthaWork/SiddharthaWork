@@ -3,6 +3,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Siddhartha+Shrestha;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+<hr>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthawork&label=Profile%20views&color=009dff&style=flat" alt="siddharthawork" /> </p>

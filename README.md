@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRhaDZndHpmdWs3NHVqZjJ5bWVkcGJkNnU4bTZ0NDhwOGM0cjh6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
 </p>
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Siddhartha+Shrestha;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+</h1>
 <h1 align="center">Hi 👋, I'm Siddhartha Shrestha</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Siddhartha+Shrestha;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthawork&label=Profile%20views&color=009dff&style=flat" alt="siddharthawork" /> </p>
 

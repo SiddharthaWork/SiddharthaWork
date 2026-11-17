@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next Js, Typescript and Node Js**
 
-- 👨‍💻 All of my projects are available at [https://siddharthashrestha.vercel.app/](https://siddhartha-shrestha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://siddharthashrestha.vercel.app/](https://siddharthashrestha.vercel.app/)
 
 - 📫 How to reach me **siddharthashresthaworks@gmail.com**
 
